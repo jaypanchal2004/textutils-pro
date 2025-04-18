@@ -1,0 +1,31 @@
+body {
+    transition: background 0.4s, color 0.4s;
+  }
+  
+  .output-box {
+    min-height: 240px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  .dark-mode {
+    background: #121212;
+    color: #eee;
+  
+    .output-box {
+      background: #1e1e1e;
+      color: #ddd;
+    }
+  
+    #textStats {
+      background: #1e1e1e;
+      color: #ddd;
+    }
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto&family=Oswald&family=Lobster&family=Caveat&family=Monoton&family=Bangers&family=Shadows+Into+Light&family=Permanent+Marker&family=Orbitron&family=Quicksand&display=swap');
+  

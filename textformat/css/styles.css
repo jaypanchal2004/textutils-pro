@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .output-box {
+    min-height: 250px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+  }
+  
+  textarea {
+    resize: none;
+  }
+  
