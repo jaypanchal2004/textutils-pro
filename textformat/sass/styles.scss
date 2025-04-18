@@ -1,5 +1,6 @@
 body {
     transition: background 0.4s, color 0.4s;
+    font-family: 'Roboto', sans-serif;
   }
   
   .output-box {
@@ -27,5 +28,7 @@ body {
     }
   }
   
-  @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto&family=Oswald&family=Lobster&family=Caveat&family=Monoton&family=Bangers&family=Shadows+Into+Light&family=Permanent+Marker&family=Orbitron&family=Quicksand&display=swap');
+  select, input {
+    font-family: 'Roboto', sans-serif;
+  }
   
