@@ -52,10 +52,7 @@ Welcome to **Text Utils**, the **interactive** web-based tool designed to help y
 ---
 
 ## 📸 **Screenshots**  
-*(Here’s where you can showcase your awesome project after uploading to GitHub)*  
-- Before and After of text transformations  
-- Sample exported images  
-- Light vs Dark mode in action
+
 
 ---
 
