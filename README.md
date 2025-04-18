@@ -54,10 +54,5 @@ Welcome to **Text Utils**, the **interactive** web-based tool designed to help y
 ## 📸 **Screenshots**  
 
 
----
+![text](https://github.com/user-attachments/assets/b86934ec-b7d2-4e3b-8548-438c85d87d55)
 
-## 🚀 **How to Get Started**  
-
-### Step 1: Clone the repository  
-```bash
-git clone https://github.com/yourusername/text-utils.git
