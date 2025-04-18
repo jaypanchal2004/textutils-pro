@@ -1,4 +1,4 @@
-# ✨ **Text Utils** — Your Ultimate Text Styling & Transformation Tool 🚀  
+# ✨ **Text Utils PRO** — Your Ultimate Text Styling & Transformation Tool 🚀  
 
 Welcome to **Text Utils**, the **interactive** web-based tool designed to help you style, transform, and manipulate text effortlessly. Built with cutting-edge technologies like **HTML**, **CSS (SASS)**, **JavaScript**, and **Bootstrap**, this tool offers a **sleek, responsive**, and **user-friendly** interface that brings your text transformations to life! Whether you need to make text bold, remove spaces, or export a stylish image, **Text Utils** has got you covered! 🌟
 
